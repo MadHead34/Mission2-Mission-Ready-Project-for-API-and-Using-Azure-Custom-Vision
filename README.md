@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Purpose of the Mission
+The purpose of Mission 2 is to create a website that has the user uploads a car image and Turner can use it's AI coming from Azure Custom Vision to detect the car type and displays other similar car types to recommend for their customers. Languages and Tools used are Javascript, Tailwind CSS, JSX, HTML and the IDE I mainly used is VSCode. It is best recommended to use Google Chrome when launching the browser.
